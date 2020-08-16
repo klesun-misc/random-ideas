@@ -19,4 +19,4 @@ Opponents make turns simultaneously with up to 10 seconds time available for thi
 
 Winner gets 2 personal blue pots and, if fight was against human, 1 Medal of Honor. This is primarily focused on new players that only have one cutie. Though I'd bet older players will also be fond of this mechanic. If this stuff goes well, may think of more use cases, like using it in tournaments, etc...
 
-Note: in this design Attack option is more valuable than others (as it has effect in _any_ case), that's intentional. By making attack the most optimal choice we incentivize player to use it more often, making him eager to get carried away, become predictable and get countered by opponent's "Defence" option.
+Note: in this design Attack option is more valuable than others (as it has effect in _any_ case), that's intentional. By making attack the most optimal choice we incentivize player to use it more often, making him eager to get carried away, become predictable and get countered by opponent's "Defence" option (which in it's turn is countered by "Prepare ").
