@@ -11,7 +11,7 @@ We add a new adventure, like "Interactive Land", where you can only send one cut
 - Defend (Rock)
     When you choose it, if enemy attacked, his dealt damage gets decremented by your defence stat +10, and you get a _Charge_ (see Prepare). If enemy did not attack, you just wasted the turn.
 - Prepare (Paper)
-    When you choose it, if enemy did not attack, you gain a _Charge_. Charges can stack indefinetely and get spent one at a time whenever you next time attack or defend, multiplying your attack or defence value twice. If enemy attacked, you just wasted the turn.
+    When you choose it, if enemy did not attack, you gain a _Charge_. Charges can stack indefinetely and get spent one at a time whenever you next time attack or defend, multiplying your attack or defence value trice. If enemy attacked, you just wasted the turn.
 
 (the logic may be a bit different in the end, this is just a basic idea)
 
