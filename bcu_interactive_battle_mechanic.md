@@ -14,3 +14,5 @@ We add a new adventure, like "Interactive Land", where you can only send one cut
 (the logic may be a bit different in the end, this is just a basic idea)
 
 Opponents make turns simultaneously with up to 10 seconds time available for thinking per turn. If you don't make it in 10 seconds, "Prepare" is automatically chosen. If both players choose attack, they both get damage at same time. This mechanic allows draws.
+
+Winner gets 2 personal blue pots. This is primarily focused on new players that only have one cutie. Though I'd bet older players will also be fond of this mechanic. If this stuff goes well, may think of more use cases, like using it in tournaments, etc...
