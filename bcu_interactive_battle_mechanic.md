@@ -7,7 +7,7 @@ Ok, here is the dildo.
 We add a new adventure, like "Interactive Land", where you can only send one cutie at a time. Matchmaking takes up to 30 seconds, if opponent not found, you fight with bot. When fight starts, the screen Winter markuped for HP battle reports will appear, with a small addition: there is a list of actions for you to choose in the center. It will consist of three options:
 
 - Attack (Scissors)
-    When you choose it, you deal a damage to enemy, equal to your attack + 10 (no 1-20 roll for now in this design to keep things dead simple)
+    When you choose it, you deal a damage to enemy, equal to your attack stat + 10 (no 1-20 roll for now in this design to keep things dead simple)
 - Defend (Rock)
     When you choose it, if enemy attacked, his dealt damage gets decremented by your defence stat +10, and you get a _Charge_ (see Prepare). If enemy did not attack, you just wasted the turn.
 - Prepare (Paper)
