@@ -2,7 +2,7 @@
 
 I'd like to scratch up a simple battle mechanic with actualy gameplay, where winner is decided not on random, but based on how player acts during the battle. One of these weekends I'll implement it and pesent to you, guys.
 
-Ok, here is the dildo.
+Ok, here is the deal.
 
 We add a new adventure, like "Interactive Land", where you can only send one cutie at a time. Matchmaking takes up to 30 seconds, if opponent not found, you fight with bot. When fight starts, the screen Winter markuped for HP battle reports will appear, with a small addition: there is a list of actions for you to choose in the center. It will consist of three options:
 
