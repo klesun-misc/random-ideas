@@ -7,9 +7,9 @@ Ok, here is the deal.
 We add a new adventure, like "Interactive Land", where you can only send one cutie at a time. Matchmaking takes up to 30 seconds, if opponent not found, you fight with bot. When fight starts, the screen Winter markuped for HP battle reports will appear, with a small addition: there is a list of actions for you to choose in the center. It will consist of three options:
 
 - Attack (Scissors)
-    When you choose it, you deal a damage to enemy, equal to your attack stat + 10 (no 1-20 roll for now in this design to keep things dead simple)
+    When you choose it, you deal a damage to enemy, equal to your attack stat, but not less than 1 (no 1-20 roll for now in this design to keep things dead simple)
 - Defend (Rock)
-    When you choose it, if enemy attacked, his dealt damage gets decremented by your defence stat +10, and you get a _Charge_ (see Prepare). If enemy did not attack, you just wasted the turn.
+    When you choose it, if enemy attacked, his dealt damage gets decremented by your defence stat (but at least 1 damage is dealt to avoid stalemate), and you get a _Charge_ (see Prepare). If enemy did not attack, you just wasted the turn.
 - Prepare (Paper)
     When you choose it, if enemy did not attack, you gain a _Charge_. Charges can stack indefinetely and get spent one at a time whenever you next time attack or defend, multiplying your attack or defence value trice. If enemy attacked, you just wasted the turn.
 
