@@ -5,3 +5,5 @@ Many good streaming web sites are constantly shutting down due to becoming popul
 I would like to add few good indexable pages for certain cartoons that are hard or sometimes even impossible to google, like "Steven Universe" or "Rick and Morty".
 
 Would be nice to integrate with multiple trackers to make stuff banned on one of them still available through another.
+
+![image](https://user-images.githubusercontent.com/5202330/92304972-87705500-ef8b-11ea-84c6-ad305c70b045.png)
