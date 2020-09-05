@@ -22,3 +22,13 @@ Winner gets 2 personal blue pots and, if fight was against human, 1 Medal of Hon
 Note: in this design Attack option is more valuable than others (as it has effect in _any_ case), that's intentional. By making attack the most optimal choice we incentivize player to use it more often, making him eager to get carried away, become predictable and get countered by opponent's "Defence" option (which in it's turn is countered by "Prepare").
 
 ![image](https://user-images.githubusercontent.com/5202330/90599438-886c5d00-e1fd-11ea-8bbf-5286c8570004.png)
+
+______
+
+I was thinking for some time, and one thing that would be good to add to this system is _taunts_. _Taunts_ is a different way to spend the _charges_: when you are making a turn, you can use a _taunt_ on one of the options, spending the charge and notifying the opponent about your chosen taunt action (turn time limit gets refreshed and if opponent already made his turn action, he is allowed to change it). After you _taunted_ the action you may use it (and get the a bonus to it's effect) or may use different action (and waste the charge, but having a good chance of deceiving the opponent). _Taunted_ action bonuses are as follow:
+
+- Attac: damage is multiplied x3, same as it works now, but now you have to _taunt_ it before using
+- Protec: if enemy attacked, he gets damaged by the value you reduced with your defence (including multipliers)
+- Prepare: in addition to gaining a charge, you also steal a charge from enemy (to make it more effective, even allow making enemy charges negative)
+
+I also thought about making prepare give **2** charges to balance out it being so useless...
