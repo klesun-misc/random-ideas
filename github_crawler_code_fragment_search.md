@@ -16,6 +16,7 @@ Will need to implement a crawler for that:
     - (https://pygithub.readthedocs.io/en/latest/github.html#github.MainClass.Github.get_repos may come in handy as well)
 - Clone each of them (shallow of course and probably better via vpn), collect text files of less than `X` KiB (for example 300) to exclude minified `/dist/` files and stuff. Files above `X` size should be stored as name list somewhere for analyzing and adjusting the `X` value.
     - ([sparse-checkout](https://stackoverflow.com/a/13738951/2750743) may be extremely useful here, as many repos tend to include large binary files we'd better not download to not get banned by github for traffic)
+    - (and [this](https://stackoverflow.com/questions/6119956/how-to-determine-if-git-handles-a-file-as-binary-or-as-text) may be useful for filtering out binary files right on the clone step)
 - Build an index for exact text search. Most full-text search engines I managed to google seem to specialize on word search, though I believe elasticsearch provided an option to search by exact text. I remember we were working on an optimized text search in progmeistars, maybe that will help: https://github.com/klesun/Progmeistars_tasks/tree/master/SpecB_C-Data_SergeyIlich/g12-substring-partial-match. There was some simple, but effective concept, though it probably had to scan whole text file, so a 3rd party engine should be still beter...
     - https://www.sqlitetutorial.net/sqlite-full-text-search/ maybe can just use sqlite `FTS()`
 - Implement the API for the web page to communicate with the text index engine
