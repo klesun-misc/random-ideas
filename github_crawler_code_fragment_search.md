@@ -34,7 +34,7 @@ Upd.: I tried googling code parts from some popular projects with 1000+ stars, l
 - coverage: while I can't be positive that _all_ repos will be covered, at least 100+ or maybe even 20+ stars should be I think.
 - text match precision: exact text search including non-word characters
 - results precision: won't include random irrelevant hosters of the code in question including countless code analysis tools
-- results are ordered by popularity rather than relevance (since _everything_ is relevant as it is exact text search)
+- results are ordered by stars rather than search relevance (since _everything_ is relevant as it is exact text search)
 - small quality-of-life features specific for source file search
     - ability to show text in question right away without redirect (as will have to store it anyway for contributing SEO)
     - show some metadata (commit sha5, md5 of file contents with duplicates grouped)
