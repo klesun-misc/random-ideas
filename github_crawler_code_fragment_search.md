@@ -33,7 +33,7 @@ I'm really surprised google did not make this possible, this is, like, super use
 Upd.: I tried googling code parts from some popular projects with 1000+ stars, like Mono, linux kernel, and google did find them, even though it did not work for special characters intense text queries, like curly brackets, parentheses, etc... Though it did not find code fragment from my 198 stars repo. Guess google relies on it's usual number of links algorithm when it decides what should be prioritized while indexing. So the few advantages of this tool over google will be:
 - coverage: while I can't be positive that _all_ repos will be covered, at least 100+ or maybe even 20+ stars should be I think.
 - text match precision: exact text search including non-word characters
-- results precision: won't include random irrelevant hosters of the code in question including countless code analysis tools
+- results precision: won't include random irrelevant hosters of the code in question including countless code analysis tools and forums
 - results are ordered by stars rather than search relevance (since _everything_ is relevant as it is exact text search)
 - small quality-of-life features specific for source file search
     - ability to show text in question right away without redirect (as will have to store it anyway for contributing SEO)
