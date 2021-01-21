@@ -46,3 +46,4 @@ Domain options:
 - code-search.app
 - code-search.org
 - search-source.codes
+- find-source.codes
