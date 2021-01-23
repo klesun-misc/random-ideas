@@ -58,3 +58,9 @@ Domain options:
 > Again, why not googe?
 
 When you grep some code in your IDE, you don't use some fussy word search that ignores non-word characters. Why? Because it's useless and awfully inconvenient. So that's the thing - searching for code in this web app is intended to be as easy as you would in the IDE.
+
+_____________________________________________
+
+## Upd. never mind, github _does_ have it's own code fragment search:
+
+![image](https://user-images.githubusercontent.com/5202330/105596740-74c0b600-5d9c-11eb-8f88-03d8fa1d3109.png)
