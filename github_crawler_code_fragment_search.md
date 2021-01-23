@@ -54,3 +54,7 @@ Domain options:
 - code-search.org
 - search-source.codes
 - find-source.codes
+
+> Again, why not googe?
+
+When you grep some code in your IDE, you don't use some fussy word search that ignores non-word characters. Why? Because it's useless and awfully inconvenient. So that's the thing - searching for code in this web app is intended to be as easy as you would in the IDE.
