@@ -17,3 +17,5 @@ stuff youtube lacks and remove all the the bad stuff youtube forces on you.
 It also bases recommentation on a video you watched, even if you "dislike"d it
 - Stupid comments, new ones prioritized over good ones, no way to get them in strict chronological order either.
 - Filter out videos by category. Like remove "today we are going to build a chair" kind of vidoes, "top 10 x" kind of videos, videos that are shorter than one minute, etc...
+
+Basically, let user control the content he sees, rather that let youtube monopolize it.
