@@ -9,3 +9,5 @@ Nowadays unicode smileys and symbolic images are getting pretty popular, but the
 is to google it, select it's text in the description of a result, copy, return to original page, paste. The "Characters" app in ubuntu I found today is more
 convenient I guess, as you don't have to wait for goolge page to load, but it still requires quite a few extra clicks, not to say that you can't use it without
 mouse. Also "Characters" takes around a second to open on my ssd (calculator app as well, so I guess it's a desktop thing), I wonder if that could be sped up somehow...
+
+Dunno if it should be a fork/PR for the "Characters" or a standalone app... in any case would need to make some research on how to make GTK apps (that would open fast preferably).
