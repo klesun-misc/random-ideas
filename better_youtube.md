@@ -17,5 +17,6 @@ stuff youtube lacks and remove all the the bad stuff youtube forces on you.
 It also bases recommentation on a video you watched, even if you "dislike"d it
 - Stupid comments, new ones prioritized over good ones, no way to get them in strict chronological order either.
 - Filter out videos by category. Like remove "today we are going to build a chair" kind of vidoes, "top 10 x" kind of videos, videos that are shorter than one minute, etc...
+- When I hide videos I obviously won't like with a userscript based on title and duration, js main thread freezes, can only guess youtube runs some really heavy code when it tries to load more entries ([sync http requests](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Synchronous_and_Asynchronous_Requests#synchronous_request) perhaps? =-D). So now I'm seriously considering making a separate web page that would crawl youtube and just show this same content, but with a better User Experience, without freezes.
 
 Basically, let user control the content he sees, rather that let youtube monopolize it.
