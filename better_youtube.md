@@ -20,3 +20,7 @@ It also bases recommentation on a video you watched, even if you "dislike"d it
 - When I hide videos I obviously won't like with a userscript based on title and duration, js main thread freezes, can only guess youtube runs some really heavy code when it tries to load more entries ([sync http requests](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Synchronous_and_Asynchronous_Requests#synchronous_request) perhaps? =-D). So now I'm seriously considering making a separate web page that would crawl youtube and just show this same content, but with a better User Experience, without freezes.
 
 Basically, let user adjust the content he sees to his preferences, not adjust his preferences to the content.
+
+_____________________________________
+
+Upd.: apparently, better youtube already exists, it's called LBRY. Better focus on improving it than on fixing youtube: https://github.com/klesun-misc/random-ideas/blob/master/lbry_search_rust.md
