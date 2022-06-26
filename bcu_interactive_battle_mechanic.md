@@ -4,7 +4,7 @@ I'd like to scratch up a simple battle mechanic with actual gameplay, where winn
 
 Ok, here is the deal.
 
-We add a new adventure, like "Interactive Land", where you can only send one cutie at a time. Matchmaking takes up to 30 seconds, if opponent not found, you fight with bot. When fight starts, the screen Winter markuped for HP battle reports will appear, with a small addition: there is a list of actions for you to choose in the center. It will consist of three options:
+We add a new adventure, like "Interactive Land", where you can only send one cutie at a time. Matchmaking takes up to 30 seconds, if opponent was not found, you fight with a bot. When fight starts, the screen Winter marked-up for HP battle reports will appear, with a small addition: there is a list of actions for you to choose in the center. It will consist of three options:
 
 - Attack (Scissors)
     When you choose it, you deal a damage to enemy, equal to your attack stat, but not less than 1 (no 1-20 roll for now in this design to keep things dead simple)
