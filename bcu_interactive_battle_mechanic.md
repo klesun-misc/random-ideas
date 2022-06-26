@@ -35,4 +35,8 @@ I also thought about making prepare give **2** charges to balance out it being s
 
 
 ## 2k22 update
-The initial implementation will be much simpler than what was described in the original 2k20. There won't be complicated special effects from "Prepare" charges and from getting a good counter match. Instead, getting a counter-match will simply nullify enemy's action effect. Charges are to be used as a separate win condition: getting a fixed number of them will make you win regardless of how much hp does the opponent have left, somewhat similar to AoE's [Wonder Victory](https://ageofempires.fandom.com/wiki/Wonder_(Age_of_Empires_II))
+The initial implementation will be much simpler than what was described in the original 2k20 document.
+- There won't be complicated special effects from "Prepare" charges and from getting a good counter match. Instead, getting a counter-match will simply nullify enemy's action effect. Charges are to be used as a separate win condition: getting a fixed number of them will make you win regardless of how much hp does the opponent have left, somewhat similar to AoE's [Wonder Victory](https://ageofempires.fandom.com/wiki/Wonder_(Age_of_Empires_II)).
+- Also, in the new design, choosing the defence always _reflects_ the attack damage to the attacker and adds the Defence stat value to the damage dealt - this way weak fighter can turn enemy's power against himself. The attack stat works in the favour of attacker in case of Attack vs Attack and Attack vs Prepare, but in favour of the attacked in case of Attack vs Defence. The Defence stat works in favour of the defender in case of Defence vs Attack and has no effect in other cases. Attack stat is more universal, but dangerous, while Defence is safe, but more limited in terms of being useful. 
+
+Currently woring on this ticket, hopefully this time I won't quit the job while working on it...
