@@ -1,6 +1,6 @@
 ## Interactive Battles in Blockchain Cuties
 
-I'd like to scratch up a simple battle mechanic with actualy gameplay, where winner is decided not on random, but based on how player acts during the battle. One of these weekends I'll implement it and pesent to you, guys.
+I'd like to scratch up a simple battle mechanic with actual gameplay, where winner is decided not on random, but based on how player acts during the battle. One of these weekends I'll implement it and pesent to you, guys.
 
 Ok, here is the deal.
 
