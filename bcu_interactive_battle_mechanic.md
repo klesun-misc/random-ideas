@@ -21,7 +21,7 @@ Winner gets 2 personal blue pots and, if fight was against human, 1 Medal of Hon
 
 Note: in this design Attack option is more valuable than others (as it has effect in _any_ case), that's intentional. By making attack the most optimal choice we incentivize player to use it more often, making him eager to get carried away, become predictable and get countered by opponent's "Defence" option (which in it's turn is countered by "Prepare").
 
-![image](https://user-images.githubusercontent.com/5202330/90599438-886c5d00-e1fd-11ea-8bbf-5286c8570004.png)
+![image](https://user-images.githubusercontent.com/5202330/175836478-e21cc5a8-a299-4b46-8761-011a86ed5ae4.png)
 
 ______
 
