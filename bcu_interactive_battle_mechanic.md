@@ -40,3 +40,5 @@ The initial implementation will be much simpler than what was described in the o
 - Also, in the new design, choosing the defence always _reflects_ the attack damage to the attacker and adds the Defence stat value to the damage dealt - this way weak fighter can turn enemy's power against himself. The attack stat works in the favour of attacker in case of Attack vs Attack and Attack vs Prepare, but in favour of the attacked in case of Attack vs Defence. The Defence stat works in favour of the defender in case of Defence vs Attack and has no effect in other cases. Attack stat is more universal, but dangerous, while Defence is safe, but more limited in terms of being useful. 
 
 Currently working on this ticket, hopefully this time nothing will interrupt the development...
+
+![image](https://user-images.githubusercontent.com/5202330/176021629-9fcc265d-ee95-44e7-96f8-cea2a0895013.png)
